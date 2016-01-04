@@ -1,5 +1,5 @@
 # learn-python
-Utility Programs creating while learning Python (Programming Foundations with Python)
+Utility Programs while learning Python (Programming Foundations with Python)
 
 1. take_break
 
